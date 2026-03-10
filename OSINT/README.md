@@ -1,0 +1,1 @@
+Felles for alle OSINT-oppgaver er at flagg skal leveres på engelsk versjon av [what3words](https://what3words.com/).

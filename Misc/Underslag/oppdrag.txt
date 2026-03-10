@@ -1,0 +1,14 @@
+Det eksisterer mistanke om at en person har underslått penger fra staten og vi trenger hjelp til å finne ut hvem.
+
+Vedlegg: datagrunnlag.csv
+
+Gå igjennom datagrunnlaget og finn personen vi leter etter. Mistanken er basert på tips fra en tidligere benyttet kilde.
+Dette vet vi om personen:
+
+  - Vedkommende er ikke tidligere dømt, men er tidligere etterforsket
+  - Vedkommende har en inntekt et sted mellom 900000 og 1.3 millioner kroner
+  - Vedkommende er en mann
+  - Vedkommende er selvstendig næringsdrivende
+  - Vedkommende har gjeld mer enn 2 millioner kroner
+
+Mvh Kontor for Skattekrim
