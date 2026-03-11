@@ -32,9 +32,7 @@ Nå har man minneadressen og kan dumpe filen:
 ```py
 python vol.py -f Windows_10_x64_SkattCTF-bbc607b3.vmem -o ./filer windows.dumpfiles --virtaddr 0xbf8aeff64880
 ```
-
-![huskeliste](https://github.com/user-attachments/assets/6caa0798-1e78-4247-9a78-9126e0155418)
-
+![huskeliste](huskeliste.png)
 
 # Flag
 
